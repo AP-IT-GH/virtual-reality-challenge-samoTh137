@@ -1,7 +1,7 @@
 # virtual-reality-challenge-samoTh137
 virtual-reality-challenge-samoTh137 created by GitHub Classroom
 
-//In de readme van je repository schrijf je je naam + voornaam, en beschrijf je welke taken je allemaal hebt gedaan + eventueel links naar codefragmenten om deze //challenge tot een goed einde te brengen.
+//In de readme van je repository schrijf je je naam + voornaam, en beschrijf je welke taken je allemaal hebt gedaan + eventueel links naar codefragmenten om deze challenge tot een goed einde te brengen.
 
 naam: Agterhuis
 
